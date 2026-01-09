@@ -1,0 +1,144 @@
+# AEJ Analysis: System-Level Risks in YouTube (2026)
+
+## Applied Engineering Judgement – Real-World Platform Analysis
+
+### Abstract
+In 2026, YouTube is no longer only an entertainment platform. Due to rapid advancements in Artificial Intelligence and large-scale social engineering techniques, YouTube has evolved into a high-risk digital ecosystem. This Applied Engineering Judgement (AEJ) analyzes critical technical, social, and systemic loopholes that threaten users, creators, society, and national security, with a special focus on India.
+
+---
+
+## 1. AI-Driven Identity Theft & Deepfake Scams
+
+### Description
+Advanced AI tools can now replicate the face, voice, and expressions of public figures such as celebrities, influencers, and political leaders with near-perfect accuracy.
+
+### Loophole
+Scammers create realistic fake videos claiming giveaways, government schemes, or investment opportunities and redirect users to malicious links.
+
+### Impact
+- Large-scale financial fraud  
+- Loss of public trust  
+- Reputational damage to the platform  
+
+YouTube’s detection systems struggle because the content appears visually and audibly authentic.
+
+---
+
+## 2. Comment Section Bot Manipulation
+
+### Description
+Automated bot networks simulate human behavior in comment sections.
+
+### Loophole
+Thousands of fake accounts post and like scam-related comments such as “I invested $500 and earned $5000,” pushing them to the top.
+
+### Impact
+- Social engineering through fake social proof  
+- Financial scams via Telegram and WhatsApp  
+- Manipulation of YouTube’s engagement-based ranking system  
+
+---
+
+## 3. Account Hijacking via Session Token Theft
+
+### Description
+Instead of stealing passwords, attackers steal browser session tokens.
+
+### Loophole
+Creators receive fake sponsorship emails containing malicious files that extract authentication session tokens.
+
+### Impact
+- Complete channel takeover  
+- No password or OTP required  
+- YouTube detects it as a normal login  
+
+---
+
+## 4. Algorithmic Echo Chambers
+
+### Description
+YouTube’s recommendation system prioritizes engagement over neutrality.
+
+### Loophole
+Watching a single fake, radical, or misleading video causes the algorithm to suggest similar content repeatedly.
+
+### Impact
+- Radicalization of users  
+- Misinformation loops  
+- Negative impact on mental health  
+
+This issue is structural and embedded in the core recommendation algorithm.
+
+---
+
+## 5. False Copyright Strikes and Digital Extortion
+
+### Description
+Attackers abuse YouTube’s automated copyright enforcement system.
+
+### Loophole
+Fake copyright claims are filed, followed by demands for money to remove the strike.
+
+### Impact
+- Creator harassment  
+- Revenue loss  
+- Psychological pressure  
+
+---
+
+## 6. Hidden Platform-Level Risks (“Dark Patterns”)
+
+### 6.1 Ghost Subscriber Purge
+Inactive subscribers remain visible but are silently ignored by the algorithm, resulting in near-zero reach.
+
+### 6.2 Transcript Hijacking
+Attackers extract video transcripts instantly and re-upload content in other languages using AI voiceovers.
+
+### 6.3 Yellow Dollar Shadow Suppression
+Limited ads not only reduce monetization but also suppress video reach by up to 90%.
+
+### 6.4 Regional Ad Arbitrage
+Content is uploaded from low-CPM regions but disguised as high-CPM region uploads using VPN or remote systems.
+
+---
+
+## 7. National Security Risks (India-Focused)
+
+### 7.1 Election Manipulation
+AI-generated deepfake videos can influence voters before verification systems respond.
+
+### 7.2 Financial Fraud
+Fake government schemes and free-benefit videos target rural and first-time internet users.
+
+### 7.3 Communal Violence
+Algorithmic amplification of hateful or fake content can trigger real-world unrest.
+
+### 7.4 Youth Radicalization
+Echo chambers push extremist ideologies toward young audiences.
+
+### 7.5 Digital Economy Damage
+Bot-driven ad fraud wastes corporate advertising budgets.
+
+### 7.6 Child Safety Risks
+Malicious content bypasses filters within YouTube Kids environments.
+
+---
+
+## 8. YouTube as a Digital Weapon (Geopolitical Context)
+
+In a hypothetical geopolitical conflict involving platform-hosting nations, YouTube could act as a tool for information control and influence.
+
+### Risks
+- Disruption of information flow  
+- Economic instability  
+- Data sovereignty concerns  
+
+---
+
+## Conclusion
+The identified loopholes are not purely technical issues; they are social, economic, and geopolitical threats. Platform profit incentives often conflict with public safety. Addressing these challenges requires stronger regulation, advanced AI detection systems, and widespread digital literacy.
+
+---
+
+## Advisory
+Users should avoid reacting impulsively to sensitive or sensational content and verify information through trusted sources before engagement.
